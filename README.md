@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ SINGHJASVIR · Jass
+# ✦ Singh Jasvir
 
 ### Independent Software Builder · JASS Digital Lab
 
