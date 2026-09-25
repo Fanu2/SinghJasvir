@@ -1,4 +1,4 @@
-# SinghJasvir · Fanu2
+# SinghJasvir · Jass
 
 ### Independent Software Builder · JASS Digital Lab
 
