@@ -1,117 +1,279 @@
-# SinghJasvir · Jass
+<div align="center">
+
+# ✦ SINGHJASVIR · Jass
 
 ### Independent Software Builder · JASS Digital Lab
 
-Building practical software across **AI, knowledge systems, language, data, creative computing, land & revenue, and legacy software modernization.**
+**AI · Knowledge · Language · Data · Creative Computing**  
+**Land & Revenue · Legacy Software Modernization**
+
+<br>
+
+<a href="https://fanu2.github.io/JASS-Digital-Lab/">
+  <img src="https://img.shields.io/badge/JASS%20DIGITAL%20LAB-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="JASS Digital Lab">
+</a>
+<a href="https://fanu2.github.io/SinghJasvir/">
+  <img src="https://img.shields.io/badge/JASS%20PROFILE-Explore-312e81?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JASS Profile">
+</a>
+<a href="https://www.linkedin.com/in/singh-jasvir/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
 
 ---
 
-## 🌐 JASS Digital Lab
+<div align="center">
 
-**JASS Digital Lab** is my independent software laboratory — a place for building, preserving, exploring and modernizing useful software.
+## 🌐 JASS DIGITAL LAB
 
-> **AI · Knowledge · Language · Data · Creative Computing**
->
-> **Land & Revenue · Legacy Software**
+**A practical software laboratory for building, preserving,  
+exploring and modernizing useful software.**
 
-🌐 **[Explore JASS Digital Lab](https://fanu2.github.io/JASS-Digital-Lab/)**  
-✨ **[Open the JASS Profile](https://fanu2.github.io/SinghJasvir/)**
+</div>
 
----
+JASS Digital Lab brings together independent projects across:
 
-## 🧠 Featured Work
+| 🧠 AI & Knowledge | 🌍 Language & Literature | 📊 Data & Documents |
+|:---:|:---:|:---:|
+| Local AI | Punjabi | SQLite |
+| Retrieval | Mizo | PostgreSQL |
+| Knowledge systems | Transliteration | Document intelligence |
+| RAG | Corpora | Data exploration |
 
-### Project Athena
-
-A local-first knowledge and research system exploring retrieval, document intelligence, citations, workspace intelligence and local AI.
-
-→ [Project Athena](https://github.com/Fanu2/Project-Athena)
-
-### Haryana Revenue Toolkit
-
-Desktop software for structured exploration and management of land-record workflows including owners, khewat, khasra, ownership and jamabandi.
-
-→ [Haryana Revenue Toolkit](https://github.com/Fanu2/Haryana-Revenue-Toolkit)
-
-### JASS Hugging Face Studio
-
-A practical environment for exploring AI models and datasets.
-
-→ [JASS Hugging Face Studio](https://github.com/Fanu2/JASS-Hugging-Face-Studio)
-
-### Language & Literature
-
-Exploring language datasets, transliteration, corpora and literary resources.
-
-- [Punjabi Aksharantar Explorer](https://github.com/Fanu2/JASS-Punjabi-Aksharantar-Explorer)
-- [JASS Mizo Explorer](https://github.com/Fanu2/JASS-Mizo-Explorer)
-
-### Legacy Software Modernization
-
-Exploring practical pathways for preserving and modernizing **FoxPro, dBase, DBF and other long-lived business applications** using modern Python, SQL and desktop technologies.
+| 🎨 Creative Computing | 🗺️ Land & Revenue | 🏛️ Legacy Modernization |
+|:---:|:---:|:---:|
+| Images | Land records | FoxPro |
+| Video | Ownership | dBase |
+| Subtitles | Khewat / Khasra | DBF |
+| Media tools | Jamabandi | Python / SQL |
 
 ---
 
-## 🛠️ Technology
+# 🧠 FEATURED WORK
 
-**Python · PySide6 · SQLite · PostgreSQL · SQL**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI/ML · RAG · Document Intelligence · Data Processing**
+## ✦ Project Athena
 
-**React · Electron · JavaScript · HTML · CSS**
+**Local-first knowledge & research**
 
-**Linux · Windows · GitHub**
+A long-running exploration of personal knowledge management, retrieval, document intelligence, citations, workspace intelligence and local AI.
 
-**FoxPro · dBase · DBF · Legacy Modernization**
+**Focus**
+
+`Knowledge` · `Retrieval` · `Documents` · `Local AI`
+
+<a href="https://github.com/Fanu2/Project-Athena">→ Explore Project Athena</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🗺️ Haryana Revenue Toolkit
+
+**Land & revenue software**
+
+Desktop tooling for structured exploration and management of land-record workflows including owners, khewat, khasra, ownership and jamabandi.
+
+**Focus**
+
+`Python` · `PySide6` · `SQLite` · `Land Records`
+
+<a href="https://github.com/Fanu2/Haryana-Revenue-Toolkit">→ Explore HRTK</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🤗 JASS Hugging Face Studio
+
+**Models & datasets**
+
+A practical environment for exploring AI models and datasets, with an emphasis on experimentation on accessible hardware.
+
+<a href="https://github.com/Fanu2/JASS-Hugging-Face-Studio">→ Explore Studio</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ਪੰਜਾਬੀ Punjabi Aksharantar Explorer
+
+**Language data & transliteration**
+
+Exploring Roman-to-Gurmukhi transliteration, corpus data and Indic language resources.
+
+<a href="https://github.com/Fanu2/JASS-Punjabi-Aksharantar-Explorer">→ Explore Explorer</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🌿 JASS Mizo Explorer
+
+**Language & corpus exploration**
+
+Tools and datasets for exploring Mizo language resources, parallel text and corpus material.
+
+<a href="https://github.com/Fanu2/JASS-Mizo-Explorer">→ Explore Mizo</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏛️ Legacy Software Lab
+
+**Preserve · Modernize · Reuse**
+
+Exploring practical pathways for preserving and modernizing FoxPro, dBase, DBF and other long-lived business applications.
+
+<a href="https://github.com/Fanu2/JASS-Legacy-Software-Lab">→ Explore Legacy Lab</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧭 Development Philosophy
+# 🛠️ TECHNOLOGY
 
-| Principle | What it means |
-|---|---|
-| **Local-first** | Keep software and data useful locally wherever practical |
-| **Practical** | Build around real problems and usable workflows |
-| **Preservation** | Valuable older software and data deserve thoughtful modernization |
-| **Experimental** | Small projects are a way to learn and discover larger ideas |
+<div align="center">
+
+### Core
+
+`Python` · `PySide6` · `SQLite` · `PostgreSQL` · `SQL`
+
+### AI & Data
+
+`AI/ML` · `RAG` · `Document Intelligence` · `OCR` · `Data Processing`
+
+### Applications
+
+`React` · `Electron` · `JavaScript` · `HTML` · `CSS`
+
+### Platforms
+
+`Linux` · `Windows` · `GitHub`
+
+### Legacy
+
+`FoxPro` · `dBase` · `DBF` · `Legacy Modernization`
+
+</div>
 
 ---
 
-## 🔭 Current Direction
+# 🧭 DEVELOPMENT PHILOSOPHY
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### ◉
+
+**LOCAL-FIRST**
+
+Keep software and data useful locally wherever practical.
+
+</td>
+
+<td width="25%" align="center">
+
+### ◈
+
+**PRACTICAL**
+
+Build around real problems and usable workflows.
+
+</td>
+
+<td width="25%" align="center">
+
+### ◆
+
+**PRESERVATION**
+
+Older software and valuable data deserve thoughtful modernization.
+
+</td>
+
+<td width="25%" align="center">
+
+### ✦
+
+**EXPERIMENTAL**
+
+Small projects are a way to learn and discover larger ideas.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔭 CURRENT DIRECTION
 
 My current work brings together:
 
-- Local AI and knowledge systems
-- Retrieval and document intelligence
-- Language datasets and exploration
-- Desktop software with Python and PySide6
-- Data and SQLite-based applications
-- Creative computing and media tools
-- Legacy software modernization
-- Practical software preservation
+- 🧠 Local AI and knowledge systems
+- 🔎 Retrieval and document intelligence
+- 🌍 Language datasets and exploration
+- 🖥️ Python and PySide6 desktop applications
+- 🗃️ SQLite and structured data systems
+- 🎨 Creative computing and media tools
+- 🏛️ Legacy software modernization
+- 📚 Practical software preservation
 
 ---
 
-## 📚 The Laboratory
+# 📚 THE LABORATORY
 
 JASS Digital Lab is intentionally broad.
 
-Some projects are serious long-term systems.  
-Some are research experiments.  
-Some are small utilities.  
+Some projects are serious long-term systems.
+
+Some are research experiments.
+
+Some are small utilities.
+
 Some exist simply to explore an idea.
 
-Together they form a continuing software laboratory.
+**Together they form a continuing software laboratory.**
 
 ---
 
-### Keep exploring. Keep learning. Keep building.
+<div align="center">
 
-**[GitHub](https://github.com/Fanu2)** ·
-**[JASS Digital Lab](https://fanu2.github.io/JASS-Digital-Lab/)** ·
-**[JASS Profile](https://fanu2.github.io/SinghJasvir/)** ·
-**[LinkedIn](https://www.linkedin.com/in/singh-jasvir/)**
+## ✦ KEEP EXPLORING. KEEP LEARNING. KEEP BUILDING.
 
----
+<br>
 
-*JASS Digital Lab · Independent software, research & experimentation*
+<a href="https://github.com/Fanu2">
+<img src="https://img.shields.io/badge/GitHub-Fanu2-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://fanu2.github.io/JASS-Digital-Lab/">
+<img src="https://img.shields.io/badge/JASS-Digital%20Lab-312e81?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://fanu2.github.io/SinghJasvir/">
+<img src="https://img.shields.io/badge/JASS-Profile-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/singh-jasvir/">
+<img src="https://img.shields.io/badge/LinkedIn-SinghJasvir-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+**JASS Digital Lab**  
+*Independent software · research · experimentation*
+
+</div>
